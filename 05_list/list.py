@@ -2,7 +2,9 @@
 # print(id(name))
 # name="rama"
 # print(id(name))
-
+# to create empty list
+list1=list()
+print(type(list1))
 # name=["ram"]
 # print(id(name))
 # name[0]="rama"
@@ -29,8 +31,8 @@ list1.append("rama")
 # list1.append(1)
 
 list1.extend([1,True,"avi"])
-# for element in (1,True,"avi"):
-#     list1.append(element)
+for element in (1,True,"avi"):
+    list1.append(element)
 
 list1.insert(4,[False])
 

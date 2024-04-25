@@ -9,3 +9,5 @@ tup2=(1,"isha",0.3)
 tup3=tup1+tup2
 tup3=tup1*2
 print(tup3)
+tup3=tuple()
+print(tup3)

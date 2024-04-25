@@ -1,0 +1,10 @@
+num1=int(input("Enter number one"))
+num2=int(input("Enter number two"))
+num3=num1+num2
+print(f"{num1} + {num2} = {num3}")
+print(f"{num1} - {num2} = {num1-num2}")
+print(f"{num1} * {num2} = {num1*num2}")
+print(f"{num1} / {num2} = {num1/num2}")
+print(f"{num1} // {num2} = {num1//num2}") 
+print(f"{num1} % {num2} = {num1%num2}")
+print(f"{num1} pow {num2} = {num1**num2}")
