@@ -1,3 +1,4 @@
 test.py
 *.db
 ct02.py
+__pycache__
